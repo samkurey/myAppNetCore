@@ -1,0 +1,11 @@
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\myAppNetCore.deps.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\myAppNetCore.runtimeconfig.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\myAppNetCore.runtimeconfig.dev.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\myAppNetCore.pdb
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.csprojAssemblyReference.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.csproj.CoreCompileInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.AssemblyInfoInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.AssemblyInfo.cs
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\myAppNetCore.pdb

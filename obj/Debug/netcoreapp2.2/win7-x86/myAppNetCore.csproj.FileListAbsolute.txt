@@ -1,0 +1,14 @@
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\hostpolicy.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\hostfxr.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.exe
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.deps.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.runtimeconfig.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.runtimeconfig.dev.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win7-x86\myAppNetCore.pdb
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.csprojAssemblyReference.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.csproj.CoreCompileInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.AssemblyInfoInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.AssemblyInfo.cs
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win7-x86\myAppNetCore.pdb

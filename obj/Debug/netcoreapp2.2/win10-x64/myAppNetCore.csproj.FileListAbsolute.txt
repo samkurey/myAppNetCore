@@ -1,0 +1,14 @@
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.exe
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.deps.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.runtimeconfig.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.runtimeconfig.dev.json
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\bin\Debug\netcoreapp2.2\win10-x64\myAppNetCore.pdb
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.csprojAssemblyReference.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.csproj.CoreCompileInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.AssemblyInfoInputs.cache
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.AssemblyInfo.cs
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.dll
+C:\Users\samsu\Documents\myAppNetCore\obj\Debug\netcoreapp2.2\win10-x64\myAppNetCore.pdb
